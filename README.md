@@ -1,4 +1,4 @@
-# AutoPaartHelper
+# AutoPartHelper
 AutoPartHelper RU — ваш интеллектуальный помощник в мире автозапчастей. Быстро. Точно. Выгодно. 🚗✨
 # AutoPartHelper RU – AI Assistant & Telegram Bot
 
